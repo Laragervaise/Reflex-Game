@@ -1,0 +1,14 @@
+Manuel d’utilisation :
+
+Toutes les sélections du menu se fond en tournant l’encodeur angulaire pour faire un « scroll horizontal » puis en validant le choix d’une pression sur le bouton poussoir PD7.
+Sélectionner le nombre de joueur(s), puis entrer le nom de chaque joueur un a un. La sélection d’un caractère s’effectue par rotation de l’encodeur angulaire et sa validation par une pression sur celui-ci. Lorsque le nom est écrit, appuyer sur le bouton poussoir de validation pour passer à l’écriture du suivant.
+Les boutons poussoir assignés pour la partie seront alors définis comme suit (si le nombre de joueurs est inférieur à 4, on utilise juste moins de boutons poussoir) :
+• Joueur 1 = PD0
+• Joueur 2 = PD1
+• Joueur 3 = PD2
+• Joueur 4 = PD3
+Note : Le numéro de joueur suit l’ordre d’écriture des noms (1,2,3,4).
+On sélectionne ensuite le mode de jeu.
+Dès l’affichage du message « go ! », le signal peut se déclencher à tout moment ! Le joueur le plus réactif, c’est-à-dire celui qui aura pressé son bouton poussoir le premier gagnera ! Le but étant de marquer le score maximal.
+Si l’écran affiche le message « trop lent ! », ne paniquez pas, c’est juste que vous avez été trop lent à réagir, mais vous avez toujours la possibilité de rejouer !
+Le nom du gagnant et son score s’affichent ensuite puis il ne reste plus qu’à choisir si vous souhaitez rejouer. Vous aurez la possibilité de tester un nouveau mode de jeu !
