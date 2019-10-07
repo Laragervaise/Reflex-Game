@@ -1,2 +1,2 @@
 # Reflex-Game
-Game about reflexex coded on a STK-300 card
+Game about reflexes coded on a STK-300 card
