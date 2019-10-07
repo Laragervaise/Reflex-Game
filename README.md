@@ -1,2 +1,2 @@
 # Reflex-Game
-Game reflex coded in assembly. It works on the STK-300 card
+Game about reflexex coded on a STK-300 card
